@@ -6,26 +6,32 @@
         {
             Console.WriteLine("Bitte gib hier deinen Kommentar ein: ");
             string Kommentar = Console.ReadLine();
-            string[] VerboteneWörter = { "Arschloch", "fick dich", "Scheisse" };
+            string[] VerboteneWörter = { "Arschloch", "fick dich", "Scheisse", "****" };
 
             int i = 0;
+            int AnzVW = 0;
             while (i < VerboteneWörter.Length)
-             {
-                i++;
-
+            {
                 if (Kommentar.Contains(VerboteneWörter[i]))
                 {
-                    Console.WriteLine("Ihr Text enthält " + VerboteneWörter[i] + " Verbotene Wörter!");
+                    
+                    AnzVW++;
                 }
+                i++;
+            }
 
-                else if (Kommentar.Contains(VerboteneWörter[i] = "0"))
-                {
-                    Console.WriteLine("Vielen Dank für ihren Kommentar");
-                }
-             }
-
-           
-
+            if (AnzVW == 0)
+            {
+                Console.WriteLine("Vielen Dank für ihren Kommentar");
+            }
+            else if(AnzVW == 1)
+            {
+                Console.WriteLine("Ihr Test enthält " + AnzVW + " Verbotenes Wort!");
+            }
+            else
+            {
+                Console.WriteLine("Ihr Text enthält " + AnzVW + " Verbotene Wörter!");
+            }
         }
     }
 }

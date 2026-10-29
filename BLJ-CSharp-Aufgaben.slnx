@@ -1,10 +1,13 @@
 <Solution>
-  <Project Path="Aufgabe-2/Aufgabe-2.csproj" />
-  <Project Path="Aufgabe-3/Aufgabe-3.csproj" Id="452bf4ea-e237-4e85-b037-f5e3599d348f" />
-  <Project Path="Aufgabe-4/Aufgabe-4.csproj" Id="6fd9b168-93ba-44b7-b311-ec0d7ed78519" />
-  <Project Path="Aufgabe-5/Aufgabe-5.csproj" Id="b1bcb451-10f6-4b7c-8853-5f626dc6cdf7" />
-  <Project Path="Aufgabe-6/Aufgabe-6.csproj" Id="c75ea023-7311-4088-a1a1-dea09453906e" />
-  <Project Path="Aufgabe-7/Aufgabe-7.csproj" Id="ccf64429-2d73-4f14-bab8-387fd4d80e3f" />
-  <Project Path="Aufgabe-8/Aufgabe-8.csproj" Id="6429c10d-c3fa-4ee7-a193-3cd650f00786" />
-  <Project Path="HelloWorld/Aufgabe-1.csproj" />
+  <Project Path="Aufgabe-11/Aufgabe-11.csproj" Id="07dd7fcf-11c0-4f53-ba27-0c56847eacad" />
+  <Project Path="Aufgabe-2/Aufgabe-02.csproj" />
+  <Project Path="Aufgabe-3/Aufgabe-03.csproj" Id="452bf4ea-e237-4e85-b037-f5e3599d348f" />
+  <Project Path="Aufgabe-4/Aufgabe-04.csproj" Id="6fd9b168-93ba-44b7-b311-ec0d7ed78519" />
+  <Project Path="Aufgabe-5/Aufgabe-05.csproj" Id="b1bcb451-10f6-4b7c-8853-5f626dc6cdf7" />
+  <Project Path="Aufgabe-6/Aufgabe-06.csproj" Id="c75ea023-7311-4088-a1a1-dea09453906e" />
+  <Project Path="Aufgabe-7/Aufgabe-07.csproj" Id="ccf64429-2d73-4f14-bab8-387fd4d80e3f" />
+  <Project Path="Aufgabe-8/Aufgabe-08.csproj" Id="6429c10d-c3fa-4ee7-a193-3cd650f00786" />
+  <Project Path="Aufgabe-9/Aufgabe-09.csproj" Id="f1610e80-875d-4b6c-8567-9037a68adb43" />
+  <Project Path="Aufgabe_10/Aufgabe-10.csproj" Id="34fcd22b-34cc-4365-a0a0-76d6d0aa7b4a" />
+  <Project Path="HelloWorld/Aufgabe-01.csproj" />
 </Solution>
