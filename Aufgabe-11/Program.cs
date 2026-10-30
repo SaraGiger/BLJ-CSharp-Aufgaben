@@ -8,7 +8,7 @@
             int Zahl1 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Bitte gib die zweite Zahl ein: ");
             int Zahl2 = Convert.ToInt32(Console.ReadLine());
-
+            Console.WriteLine("-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.");
             while (Zahl1 <= Zahl2) 
             {
                 int Summe = 0;
@@ -30,7 +30,7 @@
                 Zahl1++;
                 
             }
-            
+            Console.Write("-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.");
 
 
 

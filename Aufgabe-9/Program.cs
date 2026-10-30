@@ -8,6 +8,7 @@
             int Zahl = Convert.ToInt32(Console.ReadLine());
             string Binär = Convert.ToString(Zahl, 2);
             Console.WriteLine("Diese Zahl: " + Zahl + " sieht in Binär so aus: " + Binär);
+
         }
     }
 }

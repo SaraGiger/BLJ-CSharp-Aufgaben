@@ -22,15 +22,15 @@
 
             if (AnzVW == 0)
             {
-                Console.WriteLine("Vielen Dank für ihren Kommentar");
+                Console.WriteLine("Vielen Dank für ihren Kommentar :)");
             }
             else if(AnzVW == 1)
             {
-                Console.WriteLine("Ihr Test enthält " + AnzVW + " Verbotenes Wort!");
+                Console.WriteLine("Ihr Test enthält " + AnzVW + " Verbotenes Wort! :(");
             }
             else
             {
-                Console.WriteLine("Ihr Text enthält " + AnzVW + " Verbotene Wörter!");
+                Console.WriteLine("Ihr Text enthält " + AnzVW + " Verbotene Wörter! :(");
             }
         }
     }
