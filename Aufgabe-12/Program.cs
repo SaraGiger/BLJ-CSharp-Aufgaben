@@ -12,6 +12,7 @@
             int Länge = Zahl.Length;
 
             int[] zahlen = new int[Länge];
+
             int x = 0;
             while (x < Länge)
             {
